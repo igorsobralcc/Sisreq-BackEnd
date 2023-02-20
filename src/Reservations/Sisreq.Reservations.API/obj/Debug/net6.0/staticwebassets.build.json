@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9wzdaaqGSaeagDCPVusTVkPQGBrkmVBf6SdY9k1eCbE=",
+  "Source": "Sisreq.Reservations.API",
+  "BasePath": "_content/Sisreq.Reservations.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\bin\Debug\net6.0\Sisreq.Identity.Application.deps.json
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\bin\Debug\net6.0\Sisreq.Identity.Application.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\bin\Debug\net6.0\Sisreq.Identity.Application.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.csproj.AssemblyReference.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.AssemblyInfoInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.AssemblyInfo.cs
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\refint\Sisreq.Identity.Application.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\Sisreq.Identity.Application.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Application\obj\Debug\net6.0\ref\Sisreq.Identity.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\bin\Debug\net6.0\Sisreq.Courses.Domain.exe
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\bin\Debug\net6.0\Sisreq.Courses.Domain.deps.json
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\bin\Debug\net6.0\Sisreq.Courses.Domain.runtimeconfig.json
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\bin\Debug\net6.0\Sisreq.Courses.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\bin\Debug\net6.0\Sisreq.Courses.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.csproj.AssemblyReference.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.AssemblyInfoInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.AssemblyInfo.cs
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\refint\Sisreq.Courses.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\Sisreq.Courses.Domain.genruntimeconfig.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Courses\Sisreq.Courses.Domain\obj\Debug\net6.0\ref\Sisreq.Courses.Domain.dll

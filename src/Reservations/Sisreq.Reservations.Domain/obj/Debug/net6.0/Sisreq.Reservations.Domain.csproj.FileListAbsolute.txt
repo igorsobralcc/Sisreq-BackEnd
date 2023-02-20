@@ -1,0 +1,15 @@
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\bin\Debug\net6.0\Sisreq.Reservations.Domain.exe
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\bin\Debug\net6.0\Sisreq.Reservations.Domain.deps.json
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\bin\Debug\net6.0\Sisreq.Reservations.Domain.runtimeconfig.json
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\bin\Debug\net6.0\Sisreq.Reservations.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\bin\Debug\net6.0\Sisreq.Reservations.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.csproj.AssemblyReference.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.AssemblyInfoInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.AssemblyInfo.cs
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\refint\Sisreq.Reservations.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\Sisreq.Reservations.Domain.genruntimeconfig.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Reservations\Sisreq.Reservations.Domain\obj\Debug\net6.0\ref\Sisreq.Reservations.Domain.dll

@@ -1,0 +1,11 @@
+.vs
+.vscode
+
+src.Identity.Sisreq.Identity.API.bin
+src.Identity.Sisreq.Identity.API.obj
+
+src.Courses.Sisreq.Courses.API.bin
+src.Courses.Sisreq.Courses.API.obj
+
+src.Reservations.Sisreq.Reservations.API.bin
+src.Reservations.Sisreq.Reservations.API.obj

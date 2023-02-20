@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fNsOgvExrz40T+DXyhtrSMzBoDkznfkGYZgU8AYK54A=",
+  "Source": "Sisreq.Identity.API",
+  "BasePath": "_content/Sisreq.Identity.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

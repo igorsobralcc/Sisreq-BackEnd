@@ -1,0 +1,12 @@
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.AssemblyInfo.cs
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\bin\Debug\net6.0\Sisreq.Identity.Domain.deps.json
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\bin\Debug\net6.0\Sisreq.Identity.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\bin\Debug\net6.0\Sisreq.Identity.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\refint\Sisreq.Identity.Domain.dll
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\Sisreq.Identity.Domain.pdb
+C:\Users\igors\projetos\Sisreq-V2\src\Identity\Sisreq.Identity.Domain\obj\Debug\net6.0\ref\Sisreq.Identity.Domain.dll
