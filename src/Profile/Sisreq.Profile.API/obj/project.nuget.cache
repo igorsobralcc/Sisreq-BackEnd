@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF9gfFP/8oLIpC2vq3x4VwtcqYJfOC69r6ZiSbY7dUdFiy/8UqN8X9GagJm12+ku8OzPuvlBmGGWmXR3EkMoXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igors\\projetos\\Sisreq-BackEnd\\src\\Profile\\Sisreq.Profile.API\\Sisreq.Profile.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,37 +1,34 @@
-using Sisreq.Identity.API.Config;
+namespace Sisreq.Identity.API;
 
-namespace Sisreq.Identity.API
+public class Startup
 {
-    public class Startup
+    public IConfiguration _configuration;
+
+    public Startup(IConfiguration configuration)
     {
-        public IConfiguration _configuration;
+        _configuration = configuration;
+    }
 
-        public Startup(IConfiguration configuration)
+    public void ConfigureServices(IServiceCollection services)
+    {
+        services.AddSwaggerGen();
+        services.AddControllers();
+        services.AddEndpointsApiExplorer();
+        services.AddDependencyInjection();
+    }
+
+    public void Configure(WebApplication app, IWebHostEnvironment env)
+    {
+        if (app.Environment.IsDevelopment())
         {
-            _configuration = configuration;
+            app.UseSwagger();
+            app.UseSwaggerUI();
         }
 
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddSwaggerGen();
-            services.AddControllers();
-            services.AddEndpointsApiExplorer();
-            services.AddDependencyInjection();
-        }
+        app.UseHttpsRedirection();
+        app.UseAuthorization();
+        app.MapControllers();
 
-        public void Configure(WebApplication app, IWebHostEnvironment env)
-        {
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-            app.UseAuthorization();
-            app.MapControllers();
-
-            app.Run();
-        }
+        app.Run();
     }
 }

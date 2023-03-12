@@ -1,5 +1,3 @@
-using Sisreq.Identity.API;
-
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 

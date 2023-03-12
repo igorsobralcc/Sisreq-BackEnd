@@ -1,10 +1,9 @@
-namespace Sisreq.Identity.API.Config
+namespace Sisreq.Identity.API.Config;
+
+public static class DependencyInjectionConfig
 {
-    public static class DependencyInjectionConfig
+    public static void AddDependencyInjection(this IServiceCollection services)
     {
-        public static void AddDependencyInjection(this IServiceCollection services)
-        {
-            
-        }
+
     }
 }
